@@ -1,0 +1,2 @@
+ đọc một file in ra màn hình 5 dòng đầu tiên nếu file không đủ 5 dòng thì in ra toàn bộ nội dung file
+2. đọc một file in ra màn hình 5 dòng cuối cùng nếu file không đủ 5 dòng thì in ra toàn bộ nội dung file
